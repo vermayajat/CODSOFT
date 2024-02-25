@@ -3,6 +3,7 @@ This repository contains the projects I developed during my internship at CodeSo
 
 The portfolio showcases two main projects:  
 Portfolio Landing Page: A responsive landing page that introduces myself, highlights my skills and experiences, and provides links to my projects and contact information.
+
 Calculator: A simple web-based calculator implemented using HTML, CSS, and JavaScript.
 
 Technologies Used 
